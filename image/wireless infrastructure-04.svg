@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="70px" viewBox="0 0 50 70" style="enable-background:new 0 0 50 70;" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.6133" y1="60.0947" x2="23.6133" y2="40.0533">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.4859" style="stop-color:#B9C1CB"/>
+		<stop  offset="0.82" style="stop-color:#8E9BAA"/>
+		<stop  offset="0.8924" style="stop-color:#808B98"/>
+		<stop  offset="1" style="stop-color:#656D75"/>
+	</linearGradient>
+	<path style="opacity:0.18;fill:url(#SVGID_1_);" d="M36.167,59.083l8.708-11.916V36.3564L35,50.0752
+		c-1.0625,1.5313-2.6875,1.5625-2.6875,1.5625c-1.5625,0.1563-3.1563-0.8125-3.1563-0.8125L2.3506,35.085v9.165L28.667,59.833
+		C28.667,59.833,32.834,61.583,36.167,59.083z"/>
+	<g>
+		<path style="opacity:0.75;fill:#FFFFFF;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" d="M1.2793,30.9209l0.5938,2.624
+			c0,0,0.0361,0.7354,1.1553,1.3311l26.5576,15.5342c0,0,3.3945,2.0654,5.249-1.0498l9.2373-12.8398c0,0,0.1748-0.1992,0.3145-0.502
+			l0.7705-3.2207c0,0,0.4668-1.2119-1.166-2.0752l-1.7266-0.6885l0.8633-1.0879c0,0,0.1631,0.1846,0.6289,0L48.75,12.6675
+			l-1.2598-0.5137l-5.459,15.8628l-1.4004,1.3994l-18.4287-7.1841l1.0742-0.9805c0,0,0.5596,0.2803,0.8398-0.1855L23.4639,6.8823
+			h-1.168L22.25,19.8521l-2.1924,1.4932l-2.9395-1.166c0,0-1.1201-0.4668-2.1475,0.2793l-12.9219,8.771
+			C2.0488,29.2295,1.0693,29.9941,1.2793,30.9209z"/>
+		<path style="opacity:0.1;fill:#0071BE;" d="M20.4873,23.105l-2.499-0.9922c0,0-0.9512-0.3965-1.8242,0.2383L5.1797,29.8057
+			c0,0-0.832,0.6523-0.6543,1.4443l0.5049,2.2393c0,0,0.0303,0.6279,0.9824,1.1367l22.5732,13.21c0,0,2.8857,1.7559,4.4629-0.8926
+			l7.8516-10.9141c0,0,0.1484-0.1699,0.2666-0.4277l0.6553-2.75c0,0,0.3965-1.0342-0.9912-1.7715l-1.4678-0.5879l-1.3887-0.5264
+			l-15.6641-6.1079L20.4873,23.105z"/>
+	</g>
+</g>
+</svg>
